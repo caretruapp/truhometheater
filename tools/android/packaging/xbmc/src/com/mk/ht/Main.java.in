@@ -1,0 +1,6 @@
+package com.mk.ht;
+
+public class Main extends org.xbmc.kodi.Main
+{
+
+}

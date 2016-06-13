@@ -1,0 +1,11 @@
+APP_NAME TruHomeTheater
+COMPANY_NAME XBMC-Foundation
+WEBSITE http://kodi.tv
+VERSION_MAJOR 15
+VERSION_MINOR 0
+VERSION_TAG
+VERSION_CODE 15002
+ADDON_API 15.0.002
+
+# Notes:
+# Change AC_INIT in configure.ac
